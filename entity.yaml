@@ -1621,7 +1621,7 @@ dnsZones:
     maxlength: '63'
     rule: a-9
     convention: <rba.serviceName>.<rba.productName>.<rba.productGroup>.<rba.subscriptionType>.<rba.azureRegion>.lnrisk.io
-    example: ''
+    example: mysql01.accurintle.accurint.prod.useast1.lnrisk.io
 expressRouteCircuits:
 -   category: Network
     entity: expressRouteCircuits
