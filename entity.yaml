@@ -1620,7 +1620,7 @@ dnsZones:
     scope: resource group
     maxlength: '63'
     rule: a-9
-    convention: ''
+    convention: <rba.serviceName>.<rba.productName>.<rba.productGroup>.<rba.subscriptionType>.<rba.azureRegion>.lnrisk.io
     example: ''
 expressRouteCircuits:
 -   category: Network
