@@ -1351,6 +1351,14 @@ namespaces/eventhubs/consumergroups:
     rule: a-9
     convention: ''
     example: ''
+components:
+-   category: Insights
+    entity: components
+    scope: resource group
+    maxlength: '260'
+    rule: a-9
+    convention: ''
+    example: ''
 IoTApps:
 -   category: IoTCentral
     entity: IoTApps
@@ -2028,6 +2036,14 @@ managedInstances:
     scope: global
     maxlength: '63'
     rule: a-9
+    convention: ''
+    example: ''
+servers/administrators:
+-   category: Sql
+    entity: administrators
+    scope: server
+    maxlength: '63'
+    rule: must be `activedirectory`.
     convention: ''
     example: ''
 servers/databases/syncGroups:

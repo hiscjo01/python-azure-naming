@@ -12,182 +12,182 @@ This is the overview section.  Blah blah blahmore blah blah
 This can describe the purpose for the RBA entities. It is meant asa placeholder for whatever we want to say about them.
 ## rba.azureRegion
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Central US|global|az[7]|uscent1|
-|East US|global|az[7]|useast1|
-|East US 2|global|az[7]|useast2|
-|North Central US|global|az[7]|usnoce1|
-|South Central US|global|az[7]|ussoce1|
-|West US 2|global|az[7]|uswest2|
-|West Central US|global|az[7]|uswece1|
-|West US|global|az[7]|uswest1|
-|US DoD Central|global|az[7]|docent1|
-|US DoD East|global|az[7]|doeast1|
-|US Gov Arizona|global|az[7]|gvariz1|
-|US Gov Virginia|global|az[7]|gvvirg1|
-|US Gov Texas|global|az[7]|gvtexs1|
-|US Gov Iowa|global|az[7]|gviowa1|
-|US Sec East|global|az[7]|sceast1|
-|US Sec West|global|az[7]|scwest1|
-|Canada Central|global|az[7]|cacent1|
-|Canada East|global|az[7]|caeast1|
-|Brazil South|global|az[7]|brsout1|
-|Mexico Central|global|az[7]|mxcent1|
-|North Europe|global|az[7]|eunort1|
-|West Europe|global|az[7]|euwest1|
-|France Central|global|az[7]|frcent1|
-|France South|global|az[7]|frsout1|
-|UK South|global|az[7]|gbsout1|
-|UK West|global|az[7]|gbwest1|
-|Germany North|global|az[7]|denort1|
-|Germany West Central|global|az[7]|dewece1|
-|Germany Northeast|global|az[7]|denoea1|
-|Germany Central|global|az[7]|decent1|
-|Switzerland North|global|az[7]|chnort1|
-|Switzerland West|global|az[7]|chwest1|
-|Norway West|global|az[7]|nowest1|
-|â€‹Norway East|global|az[7]|noeast1|
-|Spain Central|global|az[7]|escent1|
-|East Asia|global|az[7]|aseast1|
-|Southeast Asia|global|az[7]|assoea1|
-|Australia Central|global|az[7]|aucent1|
-|Australia Central 2|global|az[7]|aucent2|
-|Australia East|global|az[7]|aueast1|
-|Australia Southeast|global|az[7]|ausoea1|
-|â€‹China East|global|az[7]|cneast1|
-|China North|global|az[7]|cnnort1|
-|China East 2|global|az[7]|cneast1|
-|China North 2|global|az[7]|cnnort1|
-|Central India|global|az[7]|incent1|
-|West India|global|az[7]|inwest1|
-|South India|global|az[7]|insout1|
-|Japan East|global|az[7]|jpeast1|
-|Japan West|global|az[7]|jpwest1|
-|Korea Central|global|az[7]|krcent1|
-|Korea South|global|az[7]|krsout1|
-|South Africa North|global|az[7]|zanort1|
-|South Africa West|global|az[7]|zawest1|
-|Israel Central|global|az[7]|ilcent1|
-|UAE Central|global|az[7]|aecent1|
-|UAE North|global|az[7]|aenort1|
-|Qatar Central|global|az[7]|qacent1|
+|<sub>Central US</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>uscent1</sub>|
+|<sub>East US</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>useast1</sub>|
+|<sub>East US 2</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>useast2</sub>|
+|<sub>North Central US</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>usnoce1</sub>|
+|<sub>South Central US</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>ussoce1</sub>|
+|<sub>West US 2</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>uswest2</sub>|
+|<sub>West Central US</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>uswece1</sub>|
+|<sub>West US</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>uswest1</sub>|
+|<sub>US DoD Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>docent1</sub>|
+|<sub>US DoD East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>doeast1</sub>|
+|<sub>US Gov Arizona</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>gvariz1</sub>|
+|<sub>US Gov Virginia</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>gvvirg1</sub>|
+|<sub>US Gov Texas</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>gvtexs1</sub>|
+|<sub>US Gov Iowa</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>gviowa1</sub>|
+|<sub>US Sec East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>sceast1</sub>|
+|<sub>US Sec West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>scwest1</sub>|
+|<sub>Canada Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>cacent1</sub>|
+|<sub>Canada East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>caeast1</sub>|
+|<sub>Brazil South</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>brsout1</sub>|
+|<sub>Mexico Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>mxcent1</sub>|
+|<sub>North Europe</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>eunort1</sub>|
+|<sub>West Europe</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>euwest1</sub>|
+|<sub>France Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>frcent1</sub>|
+|<sub>France South</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>frsout1</sub>|
+|<sub>UK South</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>gbsout1</sub>|
+|<sub>UK West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>gbwest1</sub>|
+|<sub>Germany North</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>denort1</sub>|
+|<sub>Germany West Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>dewece1</sub>|
+|<sub>Germany Northeast</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>denoea1</sub>|
+|<sub>Germany Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>decent1</sub>|
+|<sub>Switzerland North</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>chnort1</sub>|
+|<sub>Switzerland West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>chwest1</sub>|
+|<sub>Norway West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>nowest1</sub>|
+|<sub>â€‹Norway East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>noeast1</sub>|
+|<sub>Spain Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>escent1</sub>|
+|<sub>East Asia</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aseast1</sub>|
+|<sub>Southeast Asia</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>assoea1</sub>|
+|<sub>Australia Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aucent1</sub>|
+|<sub>Australia Central 2</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aucent2</sub>|
+|<sub>Australia East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aueast1</sub>|
+|<sub>Australia Southeast</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>ausoea1</sub>|
+|<sub>â€‹China East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>cneast1</sub>|
+|<sub>China North</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>cnnort1</sub>|
+|<sub>China East 2</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>cneast1</sub>|
+|<sub>China North 2</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>cnnort1</sub>|
+|<sub>Central India</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>incent1</sub>|
+|<sub>West India</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>inwest1</sub>|
+|<sub>South India</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>insout1</sub>|
+|<sub>Japan East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>jpeast1</sub>|
+|<sub>Japan West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>jpwest1</sub>|
+|<sub>Korea Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>krcent1</sub>|
+|<sub>Korea South</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>krsout1</sub>|
+|<sub>South Africa North</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>zanort1</sub>|
+|<sub>South Africa West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>zawest1</sub>|
+|<sub>Israel Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>ilcent1</sub>|
+|<sub>UAE Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aecent1</sub>|
+|<sub>UAE North</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aenort1</sub>|
+|<sub>Qatar Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>qacent1</sub>|
 
 ## rba.businessUnit
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Business Services|global|az[12]|businesssvc|
-|Insurance|global|az[12]|insurance|
-|Healthcare|global|az[12]|healthcare|
-|Government|global|az[12]|government|
-|Infrastructure & Operations|global|az[12]|iog|
-|Back Office|global|az[12]|backoffice|
-|Data Science|global|az[12]|datasci|
-|Linking|global|az[12]|linking|
-|Data Engineering|global|az[12]|dataeng|
-|Security|global|az[12]|security|
-|HPCC Platform|global|az[12]|hpccplat|
-|HPCC Systems|global|az[12]|hpccsyst|
+|<sub>Business Services</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>businesssvc</sub>|
+|<sub>Insurance</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>insurance</sub>|
+|<sub>Healthcare</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>healthcare</sub>|
+|<sub>Government</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>government</sub>|
+|<sub>Infrastructure & Operations</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>iog</sub>|
+|<sub>Back Office</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>backoffice</sub>|
+|<sub>Data Science</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>datasci</sub>|
+|<sub>Linking</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>linking</sub>|
+|<sub>Data Engineering</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>dataeng</sub>|
+|<sub>Security</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>security</sub>|
+|<sub>HPCC Platform</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>hpccplat</sub>|
+|<sub>HPCC Systems</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>hpccsyst</sub>|
 
 ## rba.environment
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Sandbox|global|az[7]|sandbox|
-|Development|global|az[7]|dev|
-|Testing (QA CERT)|global|az[7]|test|
-|Staging|global|az[7]|staging|
-|UAT (CT)|global|az[7]|uat|
-|Production|global|az[7]|prod|
-|Disaster Recovery|global|az[7]|dr|
+|<sub>Sandbox</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>sandbox</sub>|
+|<sub>Development</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>dev</sub>|
+|<sub>Testing (QA CERT)</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>test</sub>|
+|<sub>Staging</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>staging</sub>|
+|<sub>UAT (CT)</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>uat</sub>|
+|<sub>Production</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>prod</sub>|
+|<sub>Disaster Recovery</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>dr</sub>|
 
 ## rba.market
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|United States|global|az[2]|us|
-|United Kingdom|global|az[2]|uk|
-|India|global|az[2]|in|
-|Brazil|global|az[2]|br|
-|China|global|az[2]|cn|
+|<sub>United States</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>us</sub>|
+|<sub>United Kingdom</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>uk</sub>|
+|<sub>India</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>in</sub>|
+|<sub>Brazil</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>br</sub>|
+|<sub>China</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>cn</sub>|
 
 ## rba.onPrem
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Boca Raton, FL, USA Datacenter 1|global|az[16]|bocadc1|
-|Alpharetta GA, USA Datacenter 1|global|az[16]|alphadc1|
-|King of Prussia, PA USA Office 1|global|az[16]|kingofprussia1|
+|<sub>Boca Raton, FL, USA Datacenter 1</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>bocadc1</sub>|
+|<sub>Alpharetta GA, USA Datacenter 1</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>alphadc1</sub>|
+|<sub>King of Prussia, PA USA Office 1</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>kingofprussia1</sub>|
 
 ## rba.productGroup
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Accurint Delivery Platform|global|az[12]|accurint|
-|Bridger Delivery Platform|global|az[12]|bridger|
-|Iyetek Delivery Platform|global|az[12]|iyetek|
+|<sub>Accurint Delivery Platform</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>accurint</sub>|
+|<sub>Bridger Delivery Platform</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>bridger</sub>|
+|<sub>Iyetek Delivery Platform</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>iyetek</sub>|
 
 ## rba.productName
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Accurint Web Product|global|az[16]|accurintweb|
-|Accurint API Product|global|az[16]|accurintapi|
-|Accurint for Law Enforcement|global|az[16]|accurintle|
+|<sub>Accurint Web Product</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>accurintweb</sub>|
+|<sub>Accurint API Product</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>accurintapi</sub>|
+|<sub>Accurint for Law Enforcement</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>accurintle</sub>|
 
 ## rba.resourceGroupType
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Shared Services|global|az[12]|shared|
-|Application|global|az[12]|app|
+|<sub>Shared Services</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>shared</sub>|
+|<sub>Application</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>app</sub>|
 
 ## rba.serviceName
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Esp for Accurint Web|global|az[12]|webesp|
+|<sub>Esp for Accurint Web</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>webesp</sub>|
 
 ## rba.subnetType
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Application Gateway|global|a-z[24]|azure-appgateway|
-|VPN Gateway|global|a-z[24]|azure-vpngateway|
-|Azure Firewall|global|a-z[24]|azure-firewall|
-|Redis Cache|global|a-z[24]|azure-rediscache|
-|Azure SQL Database|global|a-z[24]|azure-sqldatabase|
-|Azure Container Instance|global|a-z[24]|azure-containers|
-|API Management|global|a-z[24]|azure-apimanagement|
-|App Service Environment|global|a-z[24]|azure-appservice|
-|Azure Logic Apps|global|a-z[24]|azure-logicapps|
-|Azure Dedicated HSM|global|a-z[24]|azure-dedicatedhsm|
-|Azure Netapp Files|global|a-z[24]|azure-netappfiles|
-|IaaS Public|global|a-z[24]|iaas-public|
-|IaaS Outbound|global|a-z[24]|iaas-outbound|
-|IaaS Private|global|a-z[24]|iaas-private|
+|<sub>Application Gateway</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-appgateway</sub>|
+|<sub>VPN Gateway</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-vpngateway</sub>|
+|<sub>Azure Firewall</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-firewall</sub>|
+|<sub>Redis Cache</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-rediscache</sub>|
+|<sub>Azure SQL Database</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-sqldatabase</sub>|
+|<sub>Azure Container Instance</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-containers</sub>|
+|<sub>API Management</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-apimanagement</sub>|
+|<sub>App Service Environment</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-appservice</sub>|
+|<sub>Azure Logic Apps</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-logicapps</sub>|
+|<sub>Azure Dedicated HSM</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-dedicatedhsm</sub>|
+|<sub>Azure Netapp Files</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>azure-netappfiles</sub>|
+|<sub>IaaS Public</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>iaas-public</sub>|
+|<sub>IaaS Outbound</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>iaas-outbound</sub>|
+|<sub>IaaS Private</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>iaas-private</sub>|
 
 ## rba.subscriptionType
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Production|global|az[12]|production|
-|Non-Production|global|az[12]|nonprod|
+|<sub>Production</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>production</sub>|
+|<sub>Non-Production</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>nonprod</sub>|
 
 ## rba.tagName
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Environment|global|a-z[24]|environment|
-|Business Unit|global|a-z[24]|business-unit|
+|<sub>Environment</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>environment</sub>|
+|<sub>Business Unit</sub>|<sub>global</sub>|<sub>a-z[24]</sub>|<sub>business-unit</sub>|
 
 ## rba.virtualNetGwType
 
-|Full Text|Scope|Rule|Value|
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|Express Route Connection|global|az[12]|expressroute|
-|Virtual Private Network|global|az[12]|vpn|
+|<sub>Express Route Connection</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>expressroute</sub>|
+|<sub>Virtual Private Network</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>vpn</sub>|
 
 # Azure Entities
 
@@ -195,595 +195,602 @@ This can describe the purpose for the RBA entities. It is meant asa placeholder 
 This can describe the purpose for the custom entities. It is meant asa placeholder for whatever we want to say about them.
 ## azure.AnalysisServices
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|servers|resource group|a9[63]|||
+|<sub>servers</sub>|<sub>resource group</sub>|<sub>a9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ApiManagement
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|service|global|a9[50]|||
-|api-version-sets|service|a-9[256]|||
-|apis|service|a-9[256]|||
-|issues|api|a-9[256]|||
-|attachments|issue|a-9[256]|||
-|comments|issue|a-9[256]|||
-|operations|api|a-9[256]|||
-|tags|operation|a-9[256]|||
-|releases|api|a-9[80]|||
-|schemas|api|a-9[256]|||
-|tagDescriptions|api|a-9[256]|||
-|tags|api|a-9[256]|||
-|authorizationServers|service|a-9[256]|||
-|backends|service|a-9[256]|||
-|certificates|service|a-9[256]|||
-|diagnostics|service|a-9[256]|||
-|groups|service|a-9[256]|||
-|users|group|a-9[256]|||
-|identityProviders|service|a-9[256]|||
-|loggers|service|a-9[256]|||
-|notifications|service|a-9[256]|||
-|recipientEmails|notification|a-9[256]|||
-|openidConnectProviders|service|a-9[256]|||
-|policies|service|a-9[256]|||
-|products|service|a-9[256]|||
-|apis|product|a-9[256]|||
-|groups|product|a-9[256]|||
-|tags|product|a-9[256]|||
-|properties|service|a-9[256]|||
-|subscriptions|service|a-9[256]|||
-|tags|service|a-9[256]|||
-|templates|service|a-9[256]|||
-|users|service|a-9[256]|||
+|<sub>service</sub>|<sub>global</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>api-version-sets</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>apis</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>issues</sub>|<sub>api</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>attachments</sub>|<sub>issue</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>comments</sub>|<sub>issue</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>operations</sub>|<sub>api</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tags</sub>|<sub>operation</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>releases</sub>|<sub>api</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>schemas</sub>|<sub>api</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tagDescriptions</sub>|<sub>api</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tags</sub>|<sub>api</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationServers</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>backends</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>certificates</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>diagnostics</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>groups</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>users</sub>|<sub>group</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>identityProviders</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>loggers</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>notifications</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>recipientEmails</sub>|<sub>notification</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>openidConnectProviders</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>policies</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>products</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>apis</sub>|<sub>product</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>groups</sub>|<sub>product</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tags</sub>|<sub>product</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>properties</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>subscriptions</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tags</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>templates</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>users</sub>|<sub>service</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.AppConfiguration
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|configurationStores|resource group|a-9[50]|||
+|<sub>configurationStores</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Authorization
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|locks|scope of assignment|a-9[90]|||
-|policySetDefinitions|scope of definition|a-9[255]|||
-|policyassignments|scope of assignment|a-9[255]|||
-|policydefinitions|scope of definition|a-9[255]|||
+|<sub>locks</sub>|<sub>scope of assignment</sub>|<sub>a-9[90]</sub>|<sub></sub>|<sub></sub>|
+|<sub>policySetDefinitions</sub>|<sub>scope of definition</sub>|<sub>a-9[255]</sub>|<sub></sub>|<sub></sub>|
+|<sub>policyassignments</sub>|<sub>scope of assignment</sub>|<sub>a-9[255]</sub>|<sub></sub>|<sub></sub>|
+|<sub>policydefinitions</sub>|<sub>scope of definition</sub>|<sub>a-9[255]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Automation
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|automationAccounts|resource group|a-9[50]|||
-|certificates|automation account|a-9[128]|||
-|connections|automation account|a-9[128]|||
-|credentials|automation account|a-9[128]|||
-|runbooks|automation account|a-9[63]|||
-|schedules|automation account|a-9[128]|||
-|variables|automation account|a-9[128]|||
-|watchers|automation account|a-9[63]|||
-|webhooks|automation account|a-9[128]|||
+|<sub>automationAccounts</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>certificates</sub>|<sub>automation account</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>connections</sub>|<sub>automation account</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>credentials</sub>|<sub>automation account</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>runbooks</sub>|<sub>automation account</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>schedules</sub>|<sub>automation account</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>variables</sub>|<sub>automation account</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>watchers</sub>|<sub>automation account</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>webhooks</sub>|<sub>automation account</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Batch
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|batchAccounts|Region|a9[24]|||
-|applications|batch account|a-9[64]|||
-|certificates|batch account|a-9[45]|||
-|pools|batch account|a-9[64]|||
+|<sub>batchAccounts</sub>|<sub>Region</sub>|<sub>a9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>applications</sub>|<sub>batch account</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>certificates</sub>|<sub>batch account</sub>|<sub>a-9[45]</sub>|<sub></sub>|<sub></sub>|
+|<sub>pools</sub>|<sub>batch account</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Blockchain
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|blockchainMembers|global|a9[20]|||
+|<sub>blockchainMembers</sub>|<sub>global</sub>|<sub>a9[20]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.BotService
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|botServices|global|a-9[64]|||
-|Connections|bot service|a-9[64]|||
-|channels|bot service|a-9[64]|||
-|enterpriseChannels|resource group|a-9[64]|||
+|<sub>botServices</sub>|<sub>global</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>Connections</sub>|<sub>bot service</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>channels</sub>|<sub>bot service</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>enterpriseChannels</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Cache
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|Redis|global|a-9[63]|||
-|firewallRules|Redis|a9[256]|||
+|<sub>Redis</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>Redis</sub>|<sub>a9[256]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Cdn
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|profiles|resource group|a-9[260]|||
-|endpoints|global|a-9[50]|||
+|<sub>profiles</sub>|<sub>resource group</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>endpoints</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.CertificateRegistration
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|certificateOrders|resource group|a9[30]|||
+|<sub>certificateOrders</sub>|<sub>resource group</sub>|<sub>a9[30]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.CognitiveServices
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|accounts|resource group|a-9[64]|||
+|<sub>accounts</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Compute
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|availabilitySets|resource group|a-9[80]|||
-|diskEncryptionSets|resource group|a9[80]|||
-|disks|resource group|a9[80]|||
-|galleries|resource group|a9[80]|||
-|applications|gallery|a-9[80]|||
-|versions|application|0.9[64]|||
-|images|gallery|a-9[80]|||
-|versions|image|0.9[64]|||
-|images|resource group|a-9[80]|||
-|snapshots|resource group|a-9[80]|||
-|virtualMachineScaleSets|resource group|a-9[64]|||
-|virtualMachines|resource group|a-9[64]|||
+|<sub>availabilitySets</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>diskEncryptionSets</sub>|<sub>resource group</sub>|<sub>a9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>disks</sub>|<sub>resource group</sub>|<sub>a9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>galleries</sub>|<sub>resource group</sub>|<sub>a9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>applications</sub>|<sub>gallery</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>versions</sub>|<sub>application</sub>|<sub>0.9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>images</sub>|<sub>gallery</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>versions</sub>|<sub>image</sub>|<sub>0.9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>images</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>snapshots</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualMachineScaleSets</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualMachines</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ContainerInstance
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|containerGroups|resource group|a-9[63]|||
+|<sub>containerGroups</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ContainerRegistry
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|registries|global|a9[50]|||
-|buildTasks|registry|a9[50]|||
-|steps|build task|a9[50]|||
-|replications|registry|a9[50]|||
-|scopeMaps|registry|a-9[50]|||
-|tasks|registry|a-9[50]|||
-|tokens|registry|a-9[50]|||
-|webhooks|registry|a9[50]|||
+|<sub>registries</sub>|<sub>global</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>buildTasks</sub>|<sub>registry</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>steps</sub>|<sub>build task</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>replications</sub>|<sub>registry</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>scopeMaps</sub>|<sub>registry</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tasks</sub>|<sub>registry</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>tokens</sub>|<sub>registry</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>webhooks</sub>|<sub>registry</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ContainerService
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|managedClusters|resource group|a-9[63]|||
-|openShiftManagedClusters|resource group|a9[30]|||
+|<sub>managedClusters</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>openShiftManagedClusters</sub>|<sub>resource group</sub>|<sub>a9[30]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.CustomProviders
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|associations|resource group|a-9[180]|||
-|resourceProviders|resource group|a-9[64]|||
+|<sub>associations</sub>|<sub>resource group</sub>|<sub>a-9[180]</sub>|<sub></sub>|<sub></sub>|
+|<sub>resourceProviders</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.CustomerInsights
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|hubs|resource group|a9[64]|||
-|authorizationPolicies|hub|a9[50]|||
-|connectors|hub|a9[128]|||
-|mappings|connector|a9[128]|||
-|interactions|hub|a9[128]|||
-|kpi|hub|a9[512]|||
-|links|hub|a9[512]|||
-|predictions|hub|a9[512]|||
-|profiles|hub|a9[128]|||
-|relationshipLinks|hub|a9[512]|||
-|relationships|hub|a9[512]|||
-|roleAssignments|hub|a9[128]|||
-|views|hub|a9[512]|||
+|<sub>hubs</sub>|<sub>resource group</sub>|<sub>a9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationPolicies</sub>|<sub>hub</sub>|<sub>a9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>connectors</sub>|<sub>hub</sub>|<sub>a9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>mappings</sub>|<sub>connector</sub>|<sub>a9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>interactions</sub>|<sub>hub</sub>|<sub>a9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>kpi</sub>|<sub>hub</sub>|<sub>a9[512]</sub>|<sub></sub>|<sub></sub>|
+|<sub>links</sub>|<sub>hub</sub>|<sub>a9[512]</sub>|<sub></sub>|<sub></sub>|
+|<sub>predictions</sub>|<sub>hub</sub>|<sub>a9[512]</sub>|<sub></sub>|<sub></sub>|
+|<sub>profiles</sub>|<sub>hub</sub>|<sub>a9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>relationshipLinks</sub>|<sub>hub</sub>|<sub>a9[512]</sub>|<sub></sub>|<sub></sub>|
+|<sub>relationships</sub>|<sub>hub</sub>|<sub>a9[512]</sub>|<sub></sub>|<sub></sub>|
+|<sub>roleAssignments</sub>|<sub>hub</sub>|<sub>a9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>views</sub>|<sub>hub</sub>|<sub>a9[512]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DBforMariaDB
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|servers|global|a-9[63]|||
-|databases|servers|a-9[63]|||
-|firewallRules|servers|a-9[128]|||
-|virtualNetworkRules|servers|a-9[128]|||
+|<sub>servers</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>databases</sub>|<sub>servers</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>servers</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworkRules</sub>|<sub>servers</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DBforMySQL
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|servers|global|a-9[63]|||
-|databases|servers|a-9[63]|||
-|firewallRules|servers|a-9[128]|||
-|virtualNetworkRules|servers|a-9[128]|||
+|<sub>servers</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>databases</sub>|<sub>servers</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>servers</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworkRules</sub>|<sub>servers</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DBforPostgreSQL
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|servers|global|a-9[63]|||
-|databases|servers|a-9[63]|||
-|firewallRules|servers|a-9[128]|||
-|virtualNetworkRules|servers|a-9[128]|||
+|<sub>servers</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>databases</sub>|<sub>servers</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>servers</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworkRules</sub>|<sub>servers</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DataBox
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|jobs|resource group|a-9[24]|||
+|<sub>jobs</sub>|<sub>resource group</sub>|<sub>a-9[24]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DataFactory
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|factories|global|a-9[63]|||
-|dataflows|factory|a-9[260]|||
-|datasets|factory|a-9[260]|||
-|integrationRuntimes|factory|a-9[63]|||
-|linkedservices|factory|a-9[260]|||
-|pipelines|factory|a-9[260]|||
-|triggers|factory|a-9[260]|||
-|rerunTriggers|trigger|a-9[260]|||
+|<sub>factories</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>dataflows</sub>|<sub>factory</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>datasets</sub>|<sub>factory</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>integrationRuntimes</sub>|<sub>factory</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>linkedservices</sub>|<sub>factory</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>pipelines</sub>|<sub>factory</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>triggers</sub>|<sub>factory</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>rerunTriggers</sub>|<sub>trigger</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DataLakeAnalytics
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|accounts|global|a9[24]|||
-|computePolicies|account|a-9[60]|||
-|dataLakeStoreAccounts|account|a9[24]|||
-|firewallRules|account|a-9[50]|||
-|storageAccounts|account|a-9[60]|||
+|<sub>accounts</sub>|<sub>global</sub>|<sub>a9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>computePolicies</sub>|<sub>account</sub>|<sub>a-9[60]</sub>|<sub></sub>|<sub></sub>|
+|<sub>dataLakeStoreAccounts</sub>|<sub>account</sub>|<sub>a9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>account</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>storageAccounts</sub>|<sub>account</sub>|<sub>a-9[60]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DataLakeStore
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|accounts|global|a9[24]|||
-|firewallRules|account|a-9[50]|||
-|virtualNetworkRules|account|a-9[50]|||
+|<sub>accounts</sub>|<sub>global</sub>|<sub>a9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>account</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworkRules</sub>|<sub>account</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DataMigration
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|services|resource group|a-9[62]|||
-|projects|service|a-9[57]|||
+|<sub>services</sub>|<sub>resource group</sub>|<sub>a-9[62]</sub>|<sub></sub>|<sub></sub>|
+|<sub>projects</sub>|<sub>service</sub>|<sub>a-9[57]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Databricks
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|workspaces|resource group|a-9[30]|||
+|<sub>workspaces</sub>|<sub>resource group</sub>|<sub>a-9[30]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DevTestLab
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|labs|resource group|a-9[50]|||
-|customimages|lab|a-9[80]|||
-|formulas|lab|a-9[80]|||
-|virtualmachines|lab|a-9[64]|||
+|<sub>labs</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>customimages</sub>|<sub>lab</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>formulas</sub>|<sub>lab</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualmachines</sub>|<sub>lab</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Devices
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|IotHubs|global|a-9[50]|||
-|certificates|IoT hub|a-9[64]|||
-|ConsumerGroups|eventHubEndpoints|a-9[50]|||
-|provisioningServices|resource group|a-9[64]|||
-|certificates|provisioningServices|a-9[64]|||
+|<sub>IotHubs</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>certificates</sub>|<sub>IoT hub</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>ConsumerGroups</sub>|<sub>eventHubEndpoints</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>provisioningServices</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>certificates</sub>|<sub>provisioningServices</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.DocumentDB
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|databaseAccounts|global|a-9[31]|||
+|<sub>databaseAccounts</sub>|<sub>global</sub>|<sub>a-9[31]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.EventGrid
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|domains|resource group|a-9[50]|||
-|topics|domain|a-9[50]|||
-|eventSubscriptions|resource group|a-9[64]|||
-|topics|resource group|a-9[50]|||
+|<sub>domains</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>topics</sub>|<sub>domain</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>eventSubscriptions</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>topics</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.EventHub
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|clusters|resource group|a-9[50]|||
-|namespaces|global|a-9[50]|||
-|AuthorizationRules|namespace|a-9[50]|||
-|disasterRecoveryConfigs|namespace|a-9[50]|||
-|eventhubs|namespace|a-9[50]|||
-|authorizationRules|event hub|a-9[50]|||
-|consumergroups|event hub|a-9[50]|||
+|<sub>clusters</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>namespaces</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>AuthorizationRules</sub>|<sub>namespace</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>disasterRecoveryConfigs</sub>|<sub>namespace</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>eventhubs</sub>|<sub>namespace</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationRules</sub>|<sub>event hub</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>consumergroups</sub>|<sub>event hub</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.HDInsight
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|clusters|global|a-9[59]|||
+|<sub>clusters</sub>|<sub>global</sub>|<sub>a-9[59]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ImportExport
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|jobs|resource group|a-9[64]|||
+|<sub>jobs</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+
+## azure.Insights
+
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
+| ------ | ------ | ------ | ------ | ------ |
+|<sub>components</sub>|<sub>resource group</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.IoTCentral
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|IoTApps|global|a-9[63]|||
+|<sub>IoTApps</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.KeyVault
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|vaults|global|a-9[24]|||
-|secrets|Vault|a-9[127]|||
+|<sub>vaults</sub>|<sub>global</sub>|<sub>a-9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>secrets</sub>|<sub>Vault</sub>|<sub>a-9[127]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Kusto
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|databases|cluster|a-9[260]|||
-|dataConnections|database|a-9[40]|||
-|eventhubconnections|database|a-9[40]|||
-|clusters|global|a9[22]|||
+|<sub>databases</sub>|<sub>cluster</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>dataConnections</sub>|<sub>database</sub>|<sub>a-9[40]</sub>|<sub></sub>|<sub></sub>|
+|<sub>eventhubconnections</sub>|<sub>database</sub>|<sub>a-9[40]</sub>|<sub></sub>|<sub></sub>|
+|<sub>clusters</sub>|<sub>global</sub>|<sub>a9[22]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Logic
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|integrationAccounts|resource group|a-9[80]|||
-|assemblies|integration account|a-9[80]|||
-|batchConfigurations|integration account|a9[20]|||
-|certificates|integration account|a-9[80]|||
-|maps|integration account|a-9[80]|||
-|partners|integration account|a-9[80]|||
-|rosettanetprocessconfigurations|integration account|a-9[80]|||
-|schemas|integration account|a-9[80]|||
-|sessions|integration account|a-9[80]|||
-|integrationServiceEnvironments|resource group|a-9[80]|||
-|managedApis|integration service environment|a-9[80]|||
-|workflows|resource group|a-9[80]|||
+|<sub>integrationAccounts</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>assemblies</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>batchConfigurations</sub>|<sub>integration account</sub>|<sub>a9[20]</sub>|<sub></sub>|<sub></sub>|
+|<sub>certificates</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>maps</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>partners</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>rosettanetprocessconfigurations</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>schemas</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>sessions</sub>|<sub>integration account</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>integrationServiceEnvironments</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>managedApis</sub>|<sub>integration service environment</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>workflows</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.MachineLearning
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|commitmentPlans|resource group|a-9[260]|||
-|webServices|resource group|a-9[260]|||
-|workspaces|resource group|a-9[260]|||
+|<sub>commitmentPlans</sub>|<sub>resource group</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>webServices</sub>|<sub>resource group</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>workspaces</sub>|<sub>resource group</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.MachineLearningServices
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|workspaces|resource group|a-9[33]|||
-|computes|workspace|a-9[16]|||
+|<sub>workspaces</sub>|<sub>resource group</sub>|<sub>a-9[33]</sub>|<sub></sub>|<sub></sub>|
+|<sub>computes</sub>|<sub>workspace</sub>|<sub>a-9[16]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ManagedIdentity
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|userAssignedIdentities|resource group|a-9[128]|||
+|<sub>userAssignedIdentities</sub>|<sub>resource group</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Maps
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|accounts|resource group|a-9[98]|||
+|<sub>accounts</sub>|<sub>resource group</sub>|<sub>a-9[98]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Media
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|mediaservices|resource group|a9[24]|||
-|liveEvents|Media service|a-9[32]|||
-|liveOutputs|Live event|a-9[256]|||
-|streamingEndpoints|Media service|a-9[24]|||
+|<sub>mediaservices</sub>|<sub>resource group</sub>|<sub>a9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>liveEvents</sub>|<sub>Media service</sub>|<sub>a-9[32]</sub>|<sub></sub>|<sub></sub>|
+|<sub>liveOutputs</sub>|<sub>Live event</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>streamingEndpoints</sub>|<sub>Media service</sub>|<sub>a-9[24]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Network
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|applicationGateways|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-appgateway<##>|accurint-production-useast2-appgateway01|
-|applicationSecurityGroups|resource group|a-9[80]|<[rba.serviceName[12]](README.md#rbaserviceName)>-app-security-group<##>|webesp-app-security-group01|
-|azureFirewalls|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-firewall<##>|accurint-production-useast2-firewall01|
-|bastionHosts|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-bastion<##>|accurint-production-useast2-bastion01|
-|connections|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-to-<[rba.onPrem[16]](README.md#rbaonPrem)>-connection|accurint-production-to-bocab1-connection|
-|dnsZones|resource group|a-9[63]|||
-|expressRouteCircuits|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-expressroute-circuit<##>|accurint-production-useast2-expressroute-circuit01|
-|firewallPolicies|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-waf-policy<##>|accurint-production-useast2-waf-policy01|
-|ruleGroups|firewall policy|a-9[80]|<rule_group_purpose[64]>-rule-group|permitwebservers-rule-group|
-|frontDoors|global|a-9[64]|||
-|loadBalancers|resource group|a-9[80]|<[rba.serviceName[12]](README.md#rbaserviceName)>-<[rba.environment[7]](README.md#rbaenvironment)>-loadbalancer<##>|webesp-prod-loadbalancer01|
-|inboundNatRules|load balancer|a-9[80]|||
-|localNetworkGateways|resource group|a-9[80]|<[rba.onPrem[16]](README.md#rbaonPrem)>-<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-local-network-gateway|bocab1-accurint-nonprod-local-network-gateway|
-|networkInterfaces|resource group|a-9[80]|||
-|networkSecurityGroups|resource group|a-9[80]|||
-|securityRules|network security group|a-9[80]|||
-|networkWatchers|resource group|a-9[80]|||
-|privateDnsZones|resource group|a-9[63]|||
-|virtualNetworkLinks|private DNS zone|a-9[80]|||
-|publicIPAddresses|resource group|a-9[80]|<[rba.serviceName[12]](README.md#rbaserviceName)>-<[rba.environment[7]](README.md#rbaenvironment)>-publicip<##>|webesp-prod-publicip01|
-|publicIPPrefixes|resource group|a-9[80]|||
-|routeFilters|resource group|a-9[80]|||
-|routeFilterRules|route filter|a-9[80]|||
-|routeTables|resource group|a-9[80]|||
-|routes|route table|a-9[80]|||
-|serviceEndpointPolicies|resource group|a-9[80]|||
-|trafficmanagerprofiles|global|a-9[63]|||
-|virtualNetworkGateways|resource group|a-9[80]|||
-|virtualNetworks|resource group|a-9[64]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-vnet|accurint-nonprod-useast2-vnet|
-|virtualNetworkPeerings|virtual network|a-9[80]|||
-|virtualWans|resource group|a-9[80]|||
-|subnets|virtual network|a-9[80]|<[rba.subnetType[24]](README.md#rbasubnetType)>-subnet<##>|private-subnet01|
-|vpnGateways|resource group|a-9[80]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.virtualNetGwType[12]](README.md#rbavirtualNetGwType)>|accurint-nonprod-expressroute|
-|vpnConnections|VPN gateway|a-9[80]|||
-|vpnSites|resource group|a-9[80]|||
+|<sub>applicationGateways</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-appgateway<##></sub>|<sub>accurint-production-useast2-appgateway01</sub>|
+|<sub>applicationSecurityGroups</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.serviceName[12]](README.md#rbaserviceName)>-app-security-group<##></sub>|<sub>webesp-app-security-group01</sub>|
+|<sub>azureFirewalls</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-firewall<##></sub>|<sub>accurint-production-useast2-firewall01</sub>|
+|<sub>bastionHosts</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-bastion<##></sub>|<sub>accurint-production-useast2-bastion01</sub>|
+|<sub>connections</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-to-<[rba.onPrem[16]](README.md#rbaonPrem)>-connection</sub>|<sub>accurint-production-to-bocab1-connection</sub>|
+|<sub>dnsZones</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>expressRouteCircuits</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-expressroute-circuit<##></sub>|<sub>accurint-production-useast2-expressroute-circuit01</sub>|
+|<sub>firewallPolicies</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-waf-policy<##></sub>|<sub>accurint-production-useast2-waf-policy01</sub>|
+|<sub>ruleGroups</sub>|<sub>firewall policy</sub>|<sub>a-9[80]</sub>|<sub><rule_group_purpose[64]>-rule-group</sub>|<sub>permitwebservers-rule-group</sub>|
+|<sub>frontDoors</sub>|<sub>global</sub>|<sub>a-9[64]</sub>|<sub></sub>|<sub></sub>|
+|<sub>loadBalancers</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.serviceName[12]](README.md#rbaserviceName)>-<[rba.environment[7]](README.md#rbaenvironment)>-loadbalancer<##></sub>|<sub>webesp-prod-loadbalancer01</sub>|
+|<sub>inboundNatRules</sub>|<sub>load balancer</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>localNetworkGateways</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.onPrem[16]](README.md#rbaonPrem)>-<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-local-network-gateway</sub>|<sub>bocab1-accurint-nonprod-local-network-gateway</sub>|
+|<sub>networkInterfaces</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>networkSecurityGroups</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>securityRules</sub>|<sub>network security group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>networkWatchers</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>privateDnsZones</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworkLinks</sub>|<sub>private DNS zone</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>publicIPAddresses</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.serviceName[12]](README.md#rbaserviceName)>-<[rba.environment[7]](README.md#rbaenvironment)>-publicip<##></sub>|<sub>webesp-prod-publicip01</sub>|
+|<sub>publicIPPrefixes</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>routeFilters</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>routeFilterRules</sub>|<sub>route filter</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>routeTables</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>routes</sub>|<sub>route table</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>serviceEndpointPolicies</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>trafficmanagerprofiles</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworkGateways</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualNetworks</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-vnet</sub>|<sub>accurint-nonprod-useast2-vnet</sub>|
+|<sub>virtualNetworkPeerings</sub>|<sub>virtual network</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>virtualWans</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>subnets</sub>|<sub>virtual network</sub>|<sub>a-9[80]</sub>|<sub><[rba.subnetType[24]](README.md#rbasubnetType)>-subnet<##></sub>|<sub>private-subnet01</sub>|
+|<sub>vpnGateways</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.virtualNetGwType[12]](README.md#rbavirtualNetGwType)></sub>|<sub>accurint-nonprod-expressroute</sub>|
+|<sub>vpnConnections</sub>|<sub>VPN gateway</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
+|<sub>vpnSites</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.NotificationHubs
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|namespaces|global|a-9[50]|||
-|AuthorizationRules|namespace|a-9[256]|||
-|notificationHubs|namespace|a-9[260]|||
-|AuthorizationRules|notification hub|a-9[256]|||
+|<sub>namespaces</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>AuthorizationRules</sub>|<sub>namespace</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
+|<sub>notificationHubs</sub>|<sub>namespace</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>AuthorizationRules</sub>|<sub>notification hub</sub>|<sub>a-9[256]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.OperationalInsights
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|clusters|resource group|a-9[63]|||
-|workspaces|resource group|a-9[63]|||
+|<sub>clusters</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>workspaces</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Portal
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|dashboards|resource group|a-9[160]|||
+|<sub>dashboards</sub>|<sub>resource group</sub>|<sub>a-9[160]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.PowerBI
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|workspaceCollections|region|a-9[63]|||
+|<sub>workspaceCollections</sub>|<sub>region</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.PowerBIDedicated
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|capacities|region|a9[63]|||
+|<sub>capacities</sub>|<sub>region</sub>|<sub>a9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.RecoveryServices
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|vaults|resource group|a-9[50]|||
-|backupPolicies|vault|a-9[150]|||
+|<sub>vaults</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>backupPolicies</sub>|<sub>vault</sub>|<sub>a-9[150]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Relay
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|namespaces|global|a-9[50]|||
-|AuthorizationRules|namespace|a-9[50]|||
-|HybridConnections|namespace|a-9[260]|||
-|authorizationRules|hybrid connection|a-9[50]|||
-|WcfRelays|namespace|a-9[260]|||
-|authorizationRules|Wcf relay|a-9[50]|||
+|<sub>namespaces</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>AuthorizationRules</sub>|<sub>namespace</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>HybridConnections</sub>|<sub>namespace</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationRules</sub>|<sub>hybrid connection</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>WcfRelays</sub>|<sub>namespace</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationRules</sub>|<sub>Wcf relay</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Resources
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|deployments|resource group|a-9[64]|<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-deployment<###>|accurint-nonprod-useast2-deployment001|
-|resourcegroups|subscription|a-9[90]|<[rba.resourceGroupType[12]](README.md#rbaresourceGroupType)>-<[rba.productName[16]](README.md#rbaproductName)>-<[rba.environment[7]](README.md#rbaenvironment)>|app-accurintweb-dev|
-|tagNames|resource|a-9[512]|<[rba.tagName[24]](README.md#rbatagName)>|environment|
-|tagValues|tag name|a-9[256]|<rba.* value>|production|
+|<sub>deployments</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-deployment<###></sub>|<sub>accurint-nonprod-useast2-deployment001</sub>|
+|<sub>resourcegroups</sub>|<sub>subscription</sub>|<sub>a-9[90]</sub>|<sub><[rba.resourceGroupType[12]](README.md#rbaresourceGroupType)>-<[rba.productName[16]](README.md#rbaproductName)>-<[rba.environment[7]](README.md#rbaenvironment)></sub>|<sub>app-accurintweb-dev</sub>|
+|<sub>tagNames</sub>|<sub>resource</sub>|<sub>a-9[512]</sub>|<sub><[rba.tagName[24]](README.md#rbatagName)></sub>|<sub>environment</sub>|
+|<sub>tagValues</sub>|<sub>tag name</sub>|<sub>a-9[256]</sub>|<sub><rba.* value></sub>|<sub>production</sub>|
 
 ## azure.ServiceBus
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|namespaces|global|a-9[50]|||
-|AuthorizationRules|namespace|a-9[50]|||
-|disasterRecoveryConfigs|global|a-9[50]|||
-|migrationConfigurations|namespace|default[63]|||
-|queues|namespace|a-9[260]|||
-|authorizationRules|queue|a-9[50]|||
-|topics|namespace|a-9[260]|||
-|authorizationRules|topic|a-9[50]|||
-|subscriptions|topic|a-9[50]|||
-|rules|subscription|a-9[50]|||
+|<sub>namespaces</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>AuthorizationRules</sub>|<sub>namespace</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>disasterRecoveryConfigs</sub>|<sub>global</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>migrationConfigurations</sub>|<sub>namespace</sub>|<sub>default[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>queues</sub>|<sub>namespace</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationRules</sub>|<sub>queue</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>topics</sub>|<sub>namespace</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>authorizationRules</sub>|<sub>topic</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>subscriptions</sub>|<sub>topic</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
+|<sub>rules</sub>|<sub>subscription</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.ServiceFabric
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|clusters|region|a-9[23]|||
+|<sub>clusters</sub>|<sub>region</sub>|<sub>a-9[23]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.SignalRService
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|signalR|global|a-9[63]|||
+|<sub>signalR</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Sql
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|managedInstances|global|a-9[63]|||
-|servers|global|a-9[63]|||
-|databases|server|a-9[128]|||
-|syncGroups|database|a-9[150]|||
-|elasticPools|server|a-9[128]|||
-|failoverGroups|global|a-9[63]|||
-|firewallRules|server|a-9[128]|||
+|<sub>managedInstances</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>servers</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>administrators</sub>|<sub>server</sub>|<sub>must be `activedirectory`.[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>databases</sub>|<sub>server</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>syncGroups</sub>|<sub>database</sub>|<sub>a-9[150]</sub>|<sub></sub>|<sub></sub>|
+|<sub>elasticPools</sub>|<sub>server</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
+|<sub>failoverGroups</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>firewallRules</sub>|<sub>server</sub>|<sub>a-9[128]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.StorSimple
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|managers|resource group|a-9[50]|||
+|<sub>managers</sub>|<sub>resource group</sub>|<sub>a-9[50]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Storage
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|blob|container|a-9[1024]|||
-|queue|storage account|a-9[63]|||
-|storageAccounts|global|a9[24]|||
-|blobServices|storage account|default[63]|||
-|containers|storage account|a-9[63]|||
-|fileServices|storage account|default[63]|||
-|shares|storage account|a-9[63]|||
-|managementPolicies|storage account|default[63]|||
-|table|storage account|a9[63]|||
+|<sub>blob</sub>|<sub>container</sub>|<sub>a-9[1024]</sub>|<sub></sub>|<sub></sub>|
+|<sub>queue</sub>|<sub>storage account</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>storageAccounts</sub>|<sub>global</sub>|<sub>a9[24]</sub>|<sub></sub>|<sub></sub>|
+|<sub>blobServices</sub>|<sub>storage account</sub>|<sub>default[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>containers</sub>|<sub>storage account</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>fileServices</sub>|<sub>storage account</sub>|<sub>default[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>shares</sub>|<sub>storage account</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>managementPolicies</sub>|<sub>storage account</sub>|<sub>default[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>table</sub>|<sub>storage account</sub>|<sub>a9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.StorageSync
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|storageSyncServices|resource group|a-9[260]|||
-|syncGroups|storage sync service|a-9[260]|||
+|<sub>storageSyncServices</sub>|<sub>resource group</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
+|<sub>syncGroups</sub>|<sub>storage sync service</sub>|<sub>a-9[260]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.StreamAnalytics
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|streamingjobs|resource group|a-9[63]|||
-|functions|streaming job|a-9[63]|||
-|inputs|streaming job|a-9[63]|||
-|outputs|streaming job|a-9[63]|||
-|transformations|streaming job|a-9[63]|||
+|<sub>streamingjobs</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>functions</sub>|<sub>streaming job</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>inputs</sub>|<sub>streaming job</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>outputs</sub>|<sub>streaming job</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+|<sub>transformations</sub>|<sub>streaming job</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.TimeSeriesInsights
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|environments|resource group|a-9[90]|||
-|accessPolicies|environment|a-9[90]|||
-|eventSources|environment|a-9[90]|||
-|referenceDataSets|environment|a9[63]|||
+|<sub>environments</sub>|<sub>resource group</sub>|<sub>a-9[90]</sub>|<sub></sub>|<sub></sub>|
+|<sub>accessPolicies</sub>|<sub>environment</sub>|<sub>a-9[90]</sub>|<sub></sub>|<sub></sub>|
+|<sub>eventSources</sub>|<sub>environment</sub>|<sub>a-9[90]</sub>|<sub></sub>|<sub></sub>|
+|<sub>referenceDataSets</sub>|<sub>environment</sub>|<sub>a9[63]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Web
 
-|Entity|Scope|Rule|Convention|Example|
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|serverfarms|resource group|a-9[40]|||
-|sites|global|a-9[60]|||
-|slots|site|a-9[59]|||
+|<sub>serverfarms</sub>|<sub>resource group</sub>|<sub>a-9[40]</sub>|<sub></sub>|<sub></sub>|
+|<sub>sites</sub>|<sub>global</sub>|<sub>a-9[60]</sub>|<sub></sub>|<sub></sub>|
+|<sub>slots</sub>|<sub>site</sub>|<sub>a-9[59]</sub>|<sub></sub>|<sub></sub>|

@@ -194,7 +194,12 @@ def exportMarkdown(title,custom,entities):
     for entity in sorted(custom):
         mdf.new_header(level=2, title='rba.'+entity)
         
-        entity_tbl = ['Full Text','Scope','Rule','Value']
+        entity_tbl = [
+            '<sub>Full Text</sub>',
+            '<sub>Scope</sub>',
+            '<sub>Rule</sub>',
+            '<sub>Value</sub>'
+        ]
         
         entity_lst = custom[entity][0]['allowed_values']
         entity_count = len(entity_lst)+1
@@ -206,7 +211,12 @@ def exportMarkdown(title,custom,entities):
             for key,value in item.items():
                 long_name = value
                 variable = key
-                entity_tbl.extend([long_name,scope,rule,variable])
+                entity_tbl.extend([
+                    '<sub>' + long_name + '</sub>',
+                    '<sub>' + scope + '</sub>',
+                    '<sub>' + rule + '</sub>',
+                    '<sub>' + variable + '</sub>'
+                ])
 
         mdf.new_table(columns=4,rows=entity_count,text=entity_tbl,text_align='center')
 
@@ -230,7 +240,14 @@ def exportMarkdown(title,custom,entities):
         mdf.new_header(level=2, title='azure.'+category)
 
         entity_count = len(category_lst[category]) + 1
-        entity_tbl = ['Entity','Scope','Rule','Convention','Example']
+        entity_tbl = [
+            '<sub>Entity</sub>',
+            '<sub>Scope</sub>',
+            '<sub>Rule</sub>',
+            '<sub>Convention</sub>',
+            '<sub>Example</sub>'
+        ]
+
         for entity in sorted(category_lst[category]):
 
             for e in entities[entity]:
@@ -242,7 +259,13 @@ def exportMarkdown(title,custom,entities):
                     convention = e['convention']
                     example = e['example']
             
-                    entity_tbl.extend([entity_name,scope,rule,convention,example])
+                    entity_tbl.extend([
+                        '<sub>' + entity_name + '</sub>',
+                        '<sub>' + scope + '</sub>',
+                        '<sub>' + rule + '</sub>',
+                        '<sub>' + convention + '</sub>',
+                        '<sub>' + example + '</sub>'
+                    ])
             
         mdf.new_table(columns=5,rows=entity_count,text=entity_tbl,text_align='center')
 
