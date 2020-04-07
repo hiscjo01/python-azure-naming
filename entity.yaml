@@ -1373,8 +1373,8 @@ vaults:
     scope: global
     maxlength: '24'
     rule: a-9
-    convention: ''
-    example: ''
+    convention: <productGroup><subscriptionType>
+    example: accurintleproduction
 -   category: RecoveryServices
     entity: vaults
     scope: resource group
