@@ -1373,7 +1373,7 @@ vaults:
     scope: global
     maxlength: '24'
     rule: a-9
-    convention: <productGroup><subscriptionType>
+    convention: <rba.productGroup><rba.subscriptionType>
     example: accurintleproduction
 -   category: RecoveryServices
     entity: vaults

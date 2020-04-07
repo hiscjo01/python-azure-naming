@@ -535,7 +535,7 @@ This can describe the purpose for the custom entities. It is meant asa placehold
 
 |<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
-|<sub>vaults</sub>|<sub>global</sub>|<sub>a-9[24]</sub>|<sub><productGroup><subscriptionType></sub>|<sub>accurintleproduction</sub>|
+|<sub>vaults</sub>|<sub>global</sub>|<sub>a-9[24]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)><[rba.subscriptionType[12]](README.md#rbasubscriptionType)></sub>|<sub>accurintleproduction</sub>|
 |<sub>secrets</sub>|<sub>Vault</sub>|<sub>a-9[127]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Kusto
