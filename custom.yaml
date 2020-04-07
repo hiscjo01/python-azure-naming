@@ -176,6 +176,7 @@ productGroup:
       - accurint: 'Accurint Delivery Platform'
       - bridger: 'Bridger Delivery Platform'
       - iyetek: 'Iyetek Delivery Platform'
+      - core: 'Core Services Platform'
 serviceName:
   - category: Custom
     entity: serviceName

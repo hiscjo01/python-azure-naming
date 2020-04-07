@@ -1374,7 +1374,7 @@ vaults:
     maxlength: '24'
     rule: a-9
     convention: <rba.productGroup><rba.subscriptionType>
-    example: accurintleproduction
+    example: accurintproduction
 -   category: RecoveryServices
     entity: vaults
     scope: resource group
