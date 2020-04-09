@@ -1693,7 +1693,7 @@ networkSecurityGroups:
     maxlength: '80'
     rule: a-9
     convention: <rba.resourceGroupType>-<rba.productName>-<rba.subnetType>-security-group
-    example: private-security-group
+    example: app-accurintle-private-security-group
 networkSecurityGroups/securityRules:
 -   category: Network
     entity: securityRules
@@ -1805,7 +1805,7 @@ virtualNetworks:
     maxlength: '64'
     rule: a-9
     convention: <rba.resourceGroupType>-<rba.productName>-<rba.subscriptionType>-<rba.azureRegion>-vnet
-    example: accurint-nonprod-useast2-vnet
+    example: app-accurint-nonprod-useast2-vnet
 virtualnetworks/subnets:
 -   category: Network
     entity: subnets
