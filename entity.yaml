@@ -1692,8 +1692,8 @@ networkSecurityGroups:
     scope: resource group
     maxlength: '80'
     rule: a-9
-    convention: ''
-    example: ''
+    convention: <rba.subnetType>-security-group<##>
+    example: private-security-group01
 networkSecurityGroups/securityRules:
 -   category: Network
     entity: securityRules
