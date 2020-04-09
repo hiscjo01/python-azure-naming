@@ -65,7 +65,7 @@ azureRegion:
       - useast2: 'East US 2'
       - usnoce1: 'North Central US'
       - ussoce1: 'South Central US'
-      - uswest2: 'West US 2'
+      - uswest2: 'West US 2a'
       - uswece1: 'West Central US'
       - uswest1: 'West US'
       - docent1: 'US DoD Central'
