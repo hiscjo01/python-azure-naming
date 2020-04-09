@@ -619,7 +619,7 @@ This can describe the purpose for the custom entities. It is meant asa placehold
 |<sub>inboundNatRules</sub>|<sub>load balancer</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 |<sub>localNetworkGateways</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.onPrem[16]](README.md#rbaonPrem)>-<[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-local-network-gateway</sub>|<sub>bocab1-accurint-nonprod-local-network-gateway</sub>|
 |<sub>networkInterfaces</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
-|<sub>networkSecurityGroups</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.subnetType[24]](README.md#rbasubnetType)>-security-group</sub>|<sub>private-security-group</sub>|
+|<sub>networkSecurityGroups</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub><[rba.resourceGroupType[12]](README.md#rbaresourceGroupType)>-<[rba.productName[16]](README.md#rbaproductName)>-<[rba.subnetType[24]](README.md#rbasubnetType)>-security-group</sub>|<sub>private-security-group</sub>|
 |<sub>securityRules</sub>|<sub>network security group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 |<sub>networkWatchers</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 |<sub>privateDnsZones</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
@@ -633,7 +633,7 @@ This can describe the purpose for the custom entities. It is meant asa placehold
 |<sub>serviceEndpointPolicies</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 |<sub>trafficmanagerprofiles</sub>|<sub>global</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 |<sub>virtualNetworkGateways</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
-|<sub>virtualNetworks</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-vnet</sub>|<sub>accurint-nonprod-useast2-vnet</sub>|
+|<sub>virtualNetworks</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub><[rba.resourceGroupType[12]](README.md#rbaresourceGroupType)>-<[rba.productName[16]](README.md#rbaproductName)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-vnet</sub>|<sub>accurint-nonprod-useast2-vnet</sub>|
 |<sub>virtualNetworkPeerings</sub>|<sub>virtual network</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 |<sub>virtualWans</sub>|<sub>resource group</sub>|<sub>a-9[80]</sub>|<sub></sub>|<sub></sub>|
 |<sub>subnets</sub>|<sub>virtual network</sub>|<sub>a-9[80]</sub>|<sub><[rba.subnetType[24]](README.md#rbasubnetType)>-subnet<##></sub>|<sub>private-subnet01</sub>|

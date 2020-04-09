@@ -1692,7 +1692,7 @@ networkSecurityGroups:
     scope: resource group
     maxlength: '80'
     rule: a-9
-    convention: <rba.subnetType>-security-group
+    convention: <rba.resourceGroupType>-<rba.productName>-<rba.subnetType>-security-group
     example: private-security-group
 networkSecurityGroups/securityRules:
 -   category: Network
@@ -1804,7 +1804,7 @@ virtualNetworks:
     scope: resource group
     maxlength: '64'
     rule: a-9
-    convention: <rba.productGroup>-<rba.subscriptionType>-<rba.azureRegion>-vnet
+    convention: <rba.resourceGroupType>-<rba.productName>-<rba.subscriptionType>-<rba.azureRegion>-vnet
     example: accurint-nonprod-useast2-vnet
 virtualnetworks/subnets:
 -   category: Network
