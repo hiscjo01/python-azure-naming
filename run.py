@@ -176,14 +176,19 @@ def exportMarkdown(title,custom,entities):
     mdf.new_header(level=1, title='Overview')
     mdf.new_paragraph(
         "This repository contains a list of variables and standards for naming "
-        "resources in Microsoft Azure.  It serves four primary purposes; The first "
-        "purpose is to create a list of approved and consistent values to be used "
-        "in naming resources, tagging and billing. The second purpose is "
-        "to assure naming of resources do not exceed Azure rules for uniqueness, "
-        "scope and allowed characters.  The third purpose is to provide a data "
-        "source for modules and policies used to enforce the conventions and the "
-        "fourth is to provide a source controlled method by which people can request "
-        "new values and those values automatically get updated in policy. "
+        "resources in Microsoft Azure.  It serves these primary purposes:"
+    )
+    mdf.new_line(
+        "* A central location for development teams to research and collaborate "
+        "on allowed values and naming conventions."
+    )
+    mdf.new_line(
+        "* To create a single source of truth for data values used in policy "
+        "enforcement, billing, and naming."
+    )
+    mdf.new_line(
+        "* To be a data source for application requiring information on approved"
+        "values and names."
     )
     mdf.new_paragraph(
         "This README is automatically generated from the two YAML based data files "

@@ -5,7 +5,10 @@ RBA Naming Conventions for Azure
 # Overview
 
 
-This repository contains a list of variables and standards for naming resources in Microsoft Azure.  It serves four primary purposes; The first purpose is to create a list of approved and consistent values to be used in naming resources, tagging and billing. The second purpose is to assure naming of resources do not exceed Azure rules for uniqueness, scope and allowed characters.  The third purpose is to provide a data source for modules and policies used to enforce the conventions and the fourth is to provide a source controlled method by which people can request new values and those values automatically get updated in policy. 
+This repository contains a list of variables and standards for naming resources in Microsoft Azure.  It serves these primary purposes:  
+* A central location for development teams to research and collaborate on allowed values and naming conventions.  
+* To create a single source of truth for data values used in policy enforcement, billing, and naming.  
+* To be a data source for application requiring information on approvedvalues and names.
 
 This README is automatically generated from the two YAML based data files that reside in this repo.  The first data file, entities.yaml is generated automatically from the Microsoft website to assure that all naming rules are constantly updated with changes at Azure.  This data is then compared with the prior file so any customizations RBA has made will remain while new entries are added.  The second file custom.yaml is a RBA maintained file that holds all approved values for names and tags.  This data is read by policy engines directly from this repo, care should be made to assure changes to the master branch do not impact deployments. 
 # RBA Entities
