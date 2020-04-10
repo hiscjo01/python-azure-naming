@@ -228,7 +228,7 @@ def exportMarkdown(title,custom,entities):
     # Create the Custom Entity Section
     mdf.new_header(level=1, title='RBA Entities')
     mdf.new_paragraph(
-        "RBA entities are"
+        "RBA entities are "
         "variables and allowed values that describe our business and purpose "
         "at RBA and are the only approved values to be used in names and tags. "
         "This assures consistency and data integrity across all resources being "

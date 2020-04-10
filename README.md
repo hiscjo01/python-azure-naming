@@ -24,7 +24,7 @@ This information is meant to be a living source of truth for applications and po
 # RBA Entities
 
 
-RBA entities arevariables and allowed values that describe our business and purpose at RBA and are the only approved values to be used in names and tags. This assures consistency and data integrity across all resources being named and tagged in Azure.  If you would like to add additional allowed values, simply open an issue request against this repo and upon review the value will be added. 
+RBA entities are variables and allowed values that describe our business and purpose at RBA and are the only approved values to be used in names and tags. This assures consistency and data integrity across all resources being named and tagged in Azure.  If you would like to add additional allowed values, simply open an issue request against this repo and upon review the value will be added. 
 ## rba.azureRegion
 
 |<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
