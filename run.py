@@ -4,6 +4,7 @@ import requests
 from requests.exceptions import HTTPError
 
 import yaml
+import json
 import os.path
 
 from mdutils import MdUtils
@@ -136,39 +137,34 @@ def importCustom(custom_yaml):
         custom_entities = yaml.load(
                             open(custom_yaml),
                             Loader=yaml.FullLoader)
-
-        for e in custom_entities:
+        
+        for e in custom_entities.values():
             
-
-            maxlength = custom_entities[e][0]['maxlength']
-            rule = custom_entities[e][0]['rule']
-            allowed_values = custom_entities[e][0]['allowed_values']
+            maxlength = e.get('maxlength')
+            rule = e.get('rule')
+            allowed_values = e.get('allowed_values')
             # Loop through the list of allowed values and check
-            for v in allowed_values:
+            for key in allowed_values.keys():
+                # Blow up if user entered value greater than the allowed length.
+                if len(key) > int(maxlength): 
+                    raise ValueError("Length of "+key+" exceeds maximum value of "
+                                    +maxlength+" set for this entity.")
                 
-                for key,value in v.items():
-                # Couple of checks to do some validation of the data
-                    
-                    # Blow up if user entered value greater than the allowed length.
-                    if len(key) > int(maxlength): 
-                        raise ValueError("Length of "+key+" exceeds maximum value of "
-                                        +maxlength+" set for this entity.")
-                
-                    # And if they say lowercase and alphanumeric and it isnt
-                    if ((rule == 'az') 
-                        and (
-                            not key.islower() 
-                            or not key.isalnum()
+                # And if they say lowercase and alphanumeric and it isnt
+                if ((rule == 'az') 
+                    and (
+                        not key.islower() 
+                        or not key.isalnum()
                         )):
-                        raise ValueError("You have specified convention is "+
-                                        rule+" but your allowed value contains "+
-                                        key)
+                    raise ValueError("You have specified convention is "+
+                                    rule+" but your allowed value contains "+
+                                    key)
                     
                     # If they just specify lower
-                    if (rule == 'a-z') and not key.islower():
-                        raise ValueError("You have specified convention is "+
-                                        rule+" but your allowed value contains "+
-                                        key)
+                if (rule == 'a-z') and not key.islower():
+                    raise ValueError("You have specified convention is "+
+                                    rule+" but your allowed value contains "+
+                                    key)
                     
 
         return custom_entities
@@ -191,8 +187,8 @@ def exportMarkdown(title,custom,entities):
     )
 
     # Role through the custom dictionary
-    for entity in sorted(custom):
-        mdf.new_header(level=2, title='rba.'+entity)
+    for name,e in sorted(custom.items()):
+        mdf.new_header(level=2, title='rba.'+name)
         
         entity_tbl = [
             '<sub>Full Text</sub>',
@@ -201,22 +197,21 @@ def exportMarkdown(title,custom,entities):
             '<sub>Value</sub>'
         ]
         
-        entity_lst = custom[entity][0]['allowed_values']
-        entity_count = len(entity_lst)+1
+        entity_dict = e.get('allowed_values')
+        entity_count = len(entity_dict)+1
         
-        scope = custom[entity][0]['scope']
-        rule = custom[entity][0]['rule']+'['+custom[entity][0]['maxlength']+']'
+        scope = e.get('scope')
+        rule = e.get('rule')+'['+e.get('maxlength')+']'
         
-        for item in entity_lst:
-            for key,value in item.items():
-                long_name = value
-                variable = key
-                entity_tbl.extend([
-                    '<sub>' + long_name + '</sub>',
-                    '<sub>' + scope + '</sub>',
-                    '<sub>' + rule + '</sub>',
-                    '<sub>' + variable + '</sub>'
-                ])
+        for key,value in entity_dict.items():
+            long_name = value
+            variable = key
+            entity_tbl.extend([
+                '<sub>' + long_name + '</sub>',
+                '<sub>' + scope + '</sub>',
+                '<sub>' + rule + '</sub>',
+                '<sub>' + variable + '</sub>'
+            ])
 
         mdf.new_table(columns=4,rows=entity_count,text=entity_tbl,text_align='center')
 
@@ -281,9 +276,9 @@ def createLinks(custom,entities):
     filedata = filedata.replace(':---:','------')
 
     # Go through the custom entities and create links
-    for entity in custom:
-        maxlength = custom[entity][0]['maxlength']
-        filedata = filedata.replace('<rba.'+entity,'<[rba.'+entity+'['+maxlength+']](README.md#rba'+entity+')')
+    for name,e in custom.items():
+        maxlength = e.get['maxlength']
+        filedata = filedata.replace('<rba.'+name,'<[rba.'+name+'['+maxlength+']](README.md#rba'+name+')')
 
     with open('README.md', 'w') as file:
         file.write(filedata) 
@@ -293,13 +288,16 @@ def main():
             'azure-docs/master/articles/azure-resource-manager/'+
             'management/resource-name-rules.md')
     entity_yaml = "entity.yaml"
-    custom_yaml = 'custom.yaml'
-    
+    custom_yaml = 'custom2.yaml'
+
     entities = importEntity(url,entity_yaml)
     custom = importCustom(custom_yaml)
 
+    with open('custom.json', 'w') as outfile:
+        json.dump(custom, outfile, indent=4)
+
     exportMarkdown('RBA Naming Conventions for Azure',custom,entities)
-    createLinks(custom,entities)
+    #createLinks(custom,entities)
 
 if __name__ == '__main__':
     main()
