@@ -5,11 +5,13 @@ RBA Naming Conventions for Azure
 # Overview
 
 
-This is the overview section.  Blah blah blahmore blah blah
+This repository contains a list of variables and standards for namingresources in Microsoft Azure.  It serves four primary purposes; The firstpurpose is to create a list of approved and consistent values to be usedin naming resources, tagging and billing. The second purpose isto assure naming of resources do not exceed Azure rules for uniqueness,scope and allowed characters.  The third purpose is to provide a datasource for modules and policies used to enforce the conventions and thefourth is to provide a source controlled method by which people can requestnew values and those values automatically get updated in policy.
+
+This README is automatically generated from the two YAML based data filesthat reside in this repo.  The first data file, entities.yaml is generatedautomatically from the Microsoft website to assure that all naming rulesare constantly updated with changes at Azure.  This data is then comparedwith the prior file so any customizations RBA has made will remain whilenew entries are added.  The second file custom.yaml is a RBA maintainedfile that holds all approved values for names and tags.  This data is readby policy engines directly from this repo, care should be made to assurechanges to the master branch do not impact deployments.
 # RBA Entities
 
 
-This can describe the purpose for the RBA entities. It is meant asa placeholder for whatever we want to say about them.
+RBA entities arevariables and allowed values that describe our business and purposeat RBA and are the only approved values to be used in names and tags.This assures consistency and data integrity across all resources beingnamed and tagged in Azure.  If you would like to add additional allowedvalues, simply open an issue request against this repo and upon reviewthe value will be added.
 ## rba.azureRegion
 
 |<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
@@ -191,7 +193,7 @@ This can describe the purpose for the RBA entities. It is meant asa placeholder 
 # Azure Entities
 
 
-This can describe the purpose for the custom entities. It is meant asa placeholder for whatever we want to say about them.
+Azure entities are entities as maintained by Microsoft Azure and shouldcontain all possible resources that can be built along with Microsoft'srules for record length, scope, and allowed characters.  Naming conventionis specific to RBA and takes into account the scope, length, and purposeto assure the name retains readability and conveys the most pertinentinformation about the resource to the reader.  Examples are provided.
 ## azure.AnalysisServices
 
 |<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
