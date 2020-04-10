@@ -175,15 +175,38 @@ def exportMarkdown(title,custom,entities):
     # Create the Overview Section
     mdf.new_header(level=1, title='Overview')
     mdf.new_paragraph(
-        "This is the overview section.  Blah blah blah"
-        "more blah blah"
+        "This repository contains a list of variables and standards for naming"
+        "resources in Microsoft Azure.  It serves four primary purposes; The first"
+        "purpose is to create a list of approved and consistent values to be used"
+        "in naming resources, tagging and billing. The second purpose is"
+        "to assure naming of resources do not exceed Azure rules for uniqueness,"
+        "scope and allowed characters.  The third purpose is to provide a data"
+        "source for modules and policies used to enforce the conventions and the"
+        "fourth is to provide a source controlled method by which people can request"
+        "new values and those values automatically get updated in policy."
+    )
+    mdf.new_paragraph(
+        "This README is automatically generated from the two YAML based data files"
+        "that reside in this repo.  The first data file, entities.yaml is generated"
+        "automatically from the Microsoft website to assure that all naming rules"
+        "are constantly updated with changes at Azure.  This data is then compared"
+        "with the prior file so any customizations RBA has made will remain while"
+        "new entries are added.  The second file custom.yaml is a RBA maintained"
+        "file that holds all approved values for names and tags.  This data is read"
+        "by policy engines directly from this repo, care should be made to assure"
+        "changes to the master branch do not impact deployments."
     )
 
     # Create the Custom Entity Section
     mdf.new_header(level=1, title='RBA Entities')
     mdf.new_paragraph(
-        "This can describe the purpose for the RBA entities. It is meant as"
-        "a placeholder for whatever we want to say about them."
+        "RBA entities are"
+        "variables and allowed values that describe our business and purpose"
+        "at RBA and are the only approved values to be used in names and tags."
+        "This assures consistency and data integrity across all resources being"
+        "named and tagged in Azure.  If you would like to add additional allowed"
+        "values, simply open an issue request against this repo and upon review"
+        "the value will be added."
     )
 
     # Role through the custom dictionary
@@ -218,8 +241,12 @@ def exportMarkdown(title,custom,entities):
     # Create the Azure Entity Section
     mdf.new_header(level=1, title='Azure Entities')
     mdf.new_paragraph(
-        "This can describe the purpose for the custom entities. It is meant as"
-        "a placeholder for whatever we want to say about them."
+        "Azure entities are entities as maintained by Microsoft Azure and should"
+        "contain all possible resources that can be built along with Microsoft's"
+        "rules for record length, scope, and allowed characters.  Naming convention"
+        "is specific to RBA and takes into account the scope, length, and purpose"
+        "to assure the name retains readability and conveys the most pertinent"
+        "information about the resource to the reader.  Examples are provided."
     )
 
     category_lst = {}
