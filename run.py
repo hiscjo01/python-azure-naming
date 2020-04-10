@@ -190,7 +190,7 @@ def exportMarkdown(title,custom,entities):
         "* To be a RESTful data source for application requiring information on approved "
         "values, variables and names."
     )
-    mdf.new_header(level=1, title='How to Use')
+    mdf.new_header(level=2, title='How to Use')
     mdf.new_paragraph(
         "This repository has four primary areas and their methods of use are described "
         "by the following:"
@@ -215,7 +215,7 @@ def exportMarkdown(title,custom,entities):
         "adds any new values to the other data files.  It also generates this README doc "
         "from the custom and entity yaml and produces the json output files."
     )
-    mdf.new_header(level=1, title='How to Update')
+    mdf.new_header(level=2, title='How to Update')
     mdf.new_paragraph(
         "This information is meant to be a living source of truth for applications and "
         "policy and as such is expected to be versioned and updated.  If you wish to add "

@@ -9,7 +9,7 @@ This repository contains a list of variables and standards for naming resources 
 * A central location for development teams to research and collaborate on allowed values and naming conventions.  
 * To create a single source of truth for data values used in policy enforcement, billing, and naming.  
 * To be a RESTful data source for application requiring information on approved values, variables and names.
-# How to Use
+## How to Use
 
 
 This repository has four primary areas and their methods of use are described by the following:  
@@ -17,7 +17,7 @@ This repository has four primary areas and their methods of use are described by
 * **custom.yaml & custom.json** - Data in yaml and json format to be RESTful sourced by applications to get a list of RBA variable names, conventions, scope and approved values.  The readme is generated automatically from this data.  
 * **entity.yaml & entity.json** - Data in yaml and json format to be sourced by applications to get a list of Azure resources, conventions, scope and approved naming conventions.  The readme is generated automatically from this data.  
 * **run.py** - A python script that scrapes the latest data from Microsoft and adds any new values to the other data files.  It also generates this README doc from the custom and entity yaml and produces the json output files.
-# How to Update
+## How to Update
 
 
 This information is meant to be a living source of truth for applications and policy and as such is expected to be versioned and updated.  If you wish to add allowed values for any of the variables or need a naming convention that is not provided in this data, open an issue request agains this repo. Upon review the information will be updated and the policy engines will reflect the changes immediately.
