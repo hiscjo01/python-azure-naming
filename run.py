@@ -187,19 +187,42 @@ def exportMarkdown(title,custom,entities):
         "enforcement, billing, and naming."
     )
     mdf.new_line(
-        "* To be a data source for application requiring information on approved"
-        "values and names."
+        "* To be a RESTful data source for application requiring information on approved "
+        "values, variables and names."
     )
+    mdf.new_header(level=1, title='How to Use')
     mdf.new_paragraph(
-        "This README is automatically generated from the two YAML based data files "
-        "that reside in this repo.  The first data file, entities.yaml is generated "
-        "automatically from the Microsoft website to assure that all naming rules "
-        "are constantly updated with changes at Azure.  This data is then compared "
-        "with the prior file so any customizations RBA has made will remain while "
-        "new entries are added.  The second file custom.yaml is a RBA maintained "
-        "file that holds all approved values for names and tags.  This data is read "
-        "by policy engines directly from this repo, care should be made to assure "
-        "changes to the master branch do not impact deployments. "
+        "This repository has four primary areas and their methods of use are described "
+        "by the following:"
+    )
+    mdf.new_line(
+        "* **README.md** - The readme is the human readable documentation on the naming "
+        "conventions, approved values, and variable names that developers will reference "
+        "when creating inputs for modules and code."
+    )
+    mdf.new_line(
+        "* **custom.yml & custom.json** - Data in yaml and json format to be sourced by "
+        "applications to get a list of RBA variable names, conventions, scope and approved "
+        "values.  The readme is generated automatically from this data."
+    )
+    mdf.new_line(
+        "* **entity.yml & entity.json** - Data in yaml and json format to be sourced by "
+        "applications to get a list of Azure resources, conventions, scope and approved "
+        "naming conventions.  The readme is generated automatically from this data."
+    )
+    mdf.new_line(
+        "* **run.py** - A python script that scrapes the latest data from Microsoft and "
+        "adds any new values to the other data files.  It also generates this README doc "
+        "from the custom and entity yaml."
+    )
+    mdf.new_header(level=1, title='How to Update')
+    mdf.new_paragraph(
+        "This information is meant to be a living source of truth for applications and "
+        "policy and as such is expected to be versioned and updated.  If you wish to add "
+        "allowed values for any of the variables or need a naming convention that is not "
+        "provided in this data, open an issue request agains this repo. Upon review the "
+        "information will be updated and the policy engines will reflect the changes "
+        "immediately."
     )
 
     # Create the Custom Entity Section
