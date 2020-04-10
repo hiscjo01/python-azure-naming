@@ -304,7 +304,7 @@ def createLinks(custom,entities):
 
     # Go through the custom entities and create links
     for name,e in custom.items():
-        maxlength = e.get['maxlength']
+        maxlength = e.get('maxlength')
         filedata = filedata.replace('<rba.'+name,'<[rba.'+name+'['+maxlength+']](README.md#rba'+name+')')
 
     with open('README.md', 'w') as file:
@@ -324,7 +324,7 @@ def main():
         json.dump(custom, outfile, indent=4)
 
     exportMarkdown('RBA Naming Conventions for Azure',custom,entities)
-    #createLinks(custom,entities)
+    createLinks(custom,entities)
 
 if __name__ == '__main__':
     main()
