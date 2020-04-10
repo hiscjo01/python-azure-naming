@@ -201,7 +201,7 @@ def exportMarkdown(title,custom,entities):
         "when creating inputs for modules and code."
     )
     mdf.new_line(
-        "* **custom.yaml & custom.json** - Data in yaml and json format to be sourced by "
+        "* **custom.yaml & custom.json** - Data in yaml and json format to be RESTful sourced by "
         "applications to get a list of RBA variable names, conventions, scope and approved "
         "values.  The readme is generated automatically from this data."
     )
@@ -213,7 +213,7 @@ def exportMarkdown(title,custom,entities):
     mdf.new_line(
         "* **run.py** - A python script that scrapes the latest data from Microsoft and "
         "adds any new values to the other data files.  It also generates this README doc "
-        "from the custom and entity yaml."
+        "from the custom and entity yaml and produces the json output files."
     )
     mdf.new_header(level=1, title='How to Update')
     mdf.new_paragraph(
