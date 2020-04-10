@@ -14,8 +14,8 @@ This repository contains a list of variables and standards for naming resources 
 
 This repository has four primary areas and their methods of use are described by the following:  
 * **README.md** - The readme is the human readable documentation on the naming conventions, approved values, and variable names that developers will reference when creating inputs for modules and code.  
-* **custom.yml & custom.json** - Data in yaml and json format to be sourced by applications to get a list of RBA variable names, conventions, scope and approved values.  The readme is generated automatically from this data.  
-* **entity.yml & entity.json** - Data in yaml and json format to be sourced by applications to get a list of Azure resources, conventions, scope and approved naming conventions.  The readme is generated automatically from this data.  
+* **custom.yaml & custom.json** - Data in yaml and json format to be sourced by applications to get a list of RBA variable names, conventions, scope and approved values.  The readme is generated automatically from this data.  
+* **entity.yaml & entity.json** - Data in yaml and json format to be sourced by applications to get a list of Azure resources, conventions, scope and approved naming conventions.  The readme is generated automatically from this data.  
 * **run.py** - A python script that scrapes the latest data from Microsoft and adds any new values to the other data files.  It also generates this README doc from the custom and entity yaml.
 # How to Update
 

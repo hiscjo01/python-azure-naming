@@ -201,12 +201,12 @@ def exportMarkdown(title,custom,entities):
         "when creating inputs for modules and code."
     )
     mdf.new_line(
-        "* **custom.yml & custom.json** - Data in yaml and json format to be sourced by "
+        "* **custom.yaml & custom.json** - Data in yaml and json format to be sourced by "
         "applications to get a list of RBA variable names, conventions, scope and approved "
         "values.  The readme is generated automatically from this data."
     )
     mdf.new_line(
-        "* **entity.yml & entity.json** - Data in yaml and json format to be sourced by "
+        "* **entity.yaml & entity.json** - Data in yaml and json format to be sourced by "
         "applications to get a list of Azure resources, conventions, scope and approved "
         "naming conventions.  The readme is generated automatically from this data."
     )
@@ -347,6 +347,9 @@ def main():
 
     entities = importEntity(url,entity_yaml)
     custom = importCustom(custom_yaml)
+
+    with open('entity.json', 'w') as outfile:
+        json.dump(entities, outfile, indent=4)
 
     with open('custom.json', 'w') as outfile:
         json.dump(custom, outfile, indent=4)
