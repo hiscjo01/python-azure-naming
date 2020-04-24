@@ -215,7 +215,8 @@
         "allowed_values": {
             "accurintweb": "Accurint Web Product",
             "accurintapi": "Accurint API Product",
-            "accurintle": "Accurint for Law Enforcement"
+            "accurintle": "Accurint for Law Enforcement",
+            "tfe": "Terraform Enterprise"
         }
     },
     "tagName": {
