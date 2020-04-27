@@ -212,9 +212,9 @@ costCenter:
   maxlength: '5'
   rule: 'az'
   allowed_values:
-    st101: 'Cloud Build Bus Svcs'
-    st102: 'Cloud Build Bus Healthcare'
-    st103: 'Cloud Build Govt'
+    st101: 'Cloud Build Business Services'
+    st102: 'Cloud Build Healthcare'
+    st103: 'Cloud Build Government'
     st104: 'Cloud Build Insurance'
     st106: 'Cloud Build Enterprise'
     ct674: 'Ola Osunkoya Cost Center'

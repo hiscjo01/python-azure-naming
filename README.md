@@ -107,9 +107,9 @@ RBA entities are variables and allowed values that describe our business and pur
 
 |<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
 | ------ | ------ | ------ | ------ |
-|<sub>Cloud Build Bus Svcs</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st101</sub>|
-|<sub>Cloud Build Bus Healthcare</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st102</sub>|
-|<sub>Cloud Build Govt</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st103</sub>|
+|<sub>Cloud Build Business Services</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st101</sub>|
+|<sub>Cloud Build Healthcare</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st102</sub>|
+|<sub>Cloud Build Government</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st103</sub>|
 |<sub>Cloud Build Insurance</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st104</sub>|
 |<sub>Cloud Build Enterprise</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st106</sub>|
 |<sub>Ola Osunkoya Cost Center</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>ct674</sub>|
