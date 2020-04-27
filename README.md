@@ -62,7 +62,7 @@ RBA entities are variables and allowed values that describe our business and pur
 |<sub>Switzerland North</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>chnort1</sub>|
 |<sub>Switzerland West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>chwest1</sub>|
 |<sub>Norway West</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>nowest1</sub>|
-|<sub>â€‹Norway East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>noeast1</sub>|
+|<sub>​Norway East</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>noeast1</sub>|
 |<sub>Spain Central</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>escent1</sub>|
 |<sub>East Asia</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>aseast1</sub>|
 |<sub>Southeast Asia</sub>|<sub>global</sub>|<sub>az[7]</sub>|<sub>assoea1</sub>|
@@ -102,6 +102,17 @@ RBA entities are variables and allowed values that describe our business and pur
 |<sub>Security</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>security</sub>|
 |<sub>HPCC Platform</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>hpccplat</sub>|
 |<sub>HPCC Systems</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>hpccsyst</sub>|
+
+## rba.costCenter
+
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
+| ------ | ------ | ------ | ------ |
+|<sub>Cloud Build Bus Svcs</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st101</sub>|
+|<sub>Cloud Build Bus Healthcare</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st102</sub>|
+|<sub>Cloud Build Govt</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st103</sub>|
+|<sub>Cloud Build Insurance</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st104</sub>|
+|<sub>Cloud Build Enterprise</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>st106</sub>|
+|<sub>Ola Osunkoya Cost Center</sub>|<sub>global</sub>|<sub>az[5]</sub>|<sub>ct674</sub>|
 
 ## rba.environment
 
@@ -149,6 +160,7 @@ RBA entities are variables and allowed values that describe our business and pur
 |<sub>Accurint Web Product</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>accurintweb</sub>|
 |<sub>Accurint API Product</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>accurintapi</sub>|
 |<sub>Accurint for Law Enforcement</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>accurintle</sub>|
+|<sub>Terraform Enterprise</sub>|<sub>global</sub>|<sub>az[16]</sub>|<sub>tfe</sub>|
 
 ## rba.resourceGroupType
 
@@ -669,6 +681,12 @@ Azure entities are entities as maintained by Microsoft Azure and should contain 
 | ------ | ------ | ------ | ------ | ------ |
 |<sub>clusters</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
 |<sub>workspaces</sub>|<sub>resource group</sub>|<sub>a-9[63]</sub>|<sub></sub>|<sub></sub>|
+
+## azure.OperationsManagement
+
+|<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
+| ------ | ------ | ------ | ------ | ------ |
+|<sub>solutions</sub>|<sub>workspace</sub>|<sub>for solutions authored by microsoft, the name must be in the pattern:<br>`solutiontype(workspacename)`<br><br>for solutions authored by third parties, the name must be in the pattern:<br>`solutiontype[workspacename]`<br><br>for example, a valid name is:<br>`antimalware(contoso-it)`<br><br>the solution type is case-sensitive.[N/A]</sub>|<sub></sub>|<sub></sub>|
 
 ## azure.Portal
 

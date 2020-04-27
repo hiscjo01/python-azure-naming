@@ -2553,6 +2553,17 @@
             "example": ""
         }
     ],
+    "solutions": [
+        {
+            "category": "OperationsManagement",
+            "entity": "solutions",
+            "scope": "workspace",
+            "maxlength": "N/A",
+            "rule": "for solutions authored by microsoft, the name must be in the pattern:<br>`solutiontype(workspacename)`<br><br>for solutions authored by third parties, the name must be in the pattern:<br>`solutiontype[workspacename]`<br><br>for example, a valid name is:<br>`antimalware(contoso-it)`<br><br>the solution type is case-sensitive.",
+            "convention": "",
+            "example": ""
+        }
+    ],
     "dashboards": [
         {
             "category": "Portal",

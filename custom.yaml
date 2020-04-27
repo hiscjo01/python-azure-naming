@@ -205,3 +205,16 @@ tagName:
   allowed_values:
     environment: 'Environment'
     business-unit: 'Business Unit'
+costCenter:
+  category: Custom
+  entity: costCenter
+  scope: global
+  maxlength: '5'
+  rule: 'az'
+  allowed_values:
+    st101: 'Cloud Build Bus Svcs'
+    st102: 'Cloud Build Bus Healthcare'
+    st103: 'Cloud Build Govt'
+    st104: 'Cloud Build Insurance'
+    st106: 'Cloud Build Enterprise'
+    ct674: 'Ola Osunkoya Cost Center'
