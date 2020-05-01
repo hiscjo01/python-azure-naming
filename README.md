@@ -729,7 +729,7 @@ Azure entities are entities as maintained by Microsoft Azure and should contain 
 |<sub>Entity</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Convention</sub>|<sub>Example</sub>|
 | ------ | ------ | ------ | ------ | ------ |
 |<sub>deployments</sub>|<sub>resource group</sub>|<sub>a-9[64]</sub>|<sub><[rba.productGroup[12]](README.md#rbaproductGroup)>-<[rba.subscriptionType[12]](README.md#rbasubscriptionType)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)>-deployment<###></sub>|<sub>accurint-nonprod-useast2-deployment001</sub>|
-|<sub>resourcegroups</sub>|<sub>subscription</sub>|<sub>a-9[90]</sub>|<sub><[rba.resourceGroupType[12]](README.md#rbaresourceGroupType)>-<[rba.productName[16]](README.md#rbaproductName)>-<[rba.environment[7]](README.md#rbaenvironment)></sub>|<sub>app-accurintweb-dev</sub>|
+|<sub>resourcegroups</sub>|<sub>subscription</sub>|<sub>a-9[90]</sub>|<sub><[rba.resourceGroupType[12]](README.md#rbaresourceGroupType)>-<[rba.productName[16]](README.md#rbaproductName)>-<[rba.environment[7]](README.md#rbaenvironment)>-<[rba.azureRegion[7]](README.md#rbaazureRegion)></sub>|<sub>app-accurintweb-dev-useast2</sub>|
 |<sub>tagNames</sub>|<sub>resource</sub>|<sub>a-9[512]</sub>|<sub><[rba.tagName[24]](README.md#rbatagName)></sub>|<sub>environment</sub>|
 |<sub>tagValues</sub>|<sub>tag name</sub>|<sub>a-9[256]</sub>|<sub><rba.* value></sub>|<sub>production</sub>|
 

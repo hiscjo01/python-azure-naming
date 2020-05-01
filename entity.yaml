@@ -1959,8 +1959,8 @@ resourcegroups:
     scope: subscription
     maxlength: '90'
     rule: a-9
-    convention: <rba.resourceGroupType>-<rba.productName>-<rba.environment>
-    example: app-accurintweb-dev
+    convention: <rba.resourceGroupType>-<rba.productName>-<rba.environment>-<rba.azureRegion>
+    example: app-accurintweb-dev-useast2
 tagNames:
 -   category: Resources
     entity: tagNames
